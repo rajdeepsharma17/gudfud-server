@@ -1,3 +1,92 @@
-{
-    "ok": true
-}
+[
+  {
+    "name": "Aloo Paratha",
+    "price": 40,
+    "type": [
+      "vegetarian"
+    ],
+    "inStock": true,
+    "image": "https://i.imgur.com/hSR8q1m.jpg"
+  },
+  {
+    "name": "Spring Roll",
+    "price": 30,
+    "type": [
+      "chinese"
+    ],
+    "inStock": true,
+    "image": "https://i.imgur.com/RoQ0e06.jpg"
+  },
+  {
+    "name": "Pasta",
+    "price": 50,
+    "type": [
+      "italian"
+    ],
+    "inStock": true,
+    "image": "https://i.imgur.com/dnsaafk.jpg"
+  },
+  {
+    "name": "Donut",
+    "price": 60,
+    "type": [
+      "vegetarian"
+    ],
+    "inStock": false,
+    "image": "https://i.imgur.com/2ZWbDJe.jpg"
+  },
+  {
+    "name": "Chilly Potato",
+    "price": 70,
+    "type": [
+      "chinese"
+    ],
+    "inStock": false,
+    "image": "https://i.imgur.com/tTAXwXi.jpg"
+  },
+  {
+    "name": "Samosa",
+    "price": 20,
+    "type": [
+      "vegetarian"
+    ],
+    "inStock": false,
+    "image": "https://i.imgur.com/2ulxFDF.jpg"
+  },
+  {
+    "name": "Momos",
+    "price": 30,
+    "type": [
+      "chinese"
+    ],
+    "inStock": true,
+    "image": "https://i.imgur.com/CIr65a2.jpg"
+  },
+  {
+    "name": "Sandwich",
+    "price": 40,
+    "type": [
+      "vegetarian"
+    ],
+    "inStock": true,
+    "image": "https://i.imgur.com/NwRaiBE.jpg"
+  },
+  {
+    "name": "Burger",
+    "price": 40,
+    "type": [
+      "italian"
+    ],
+    "inStock": true,
+    "image": "https://i.imgur.com/MrUhk5q.jpg"
+  },
+  {
+    "name": "Maggi",
+    "price": 20,
+    "type": [
+      "chinese"
+    ],
+    "inStock": false,
+    "image": "https://i.imgur.com/KGm98Eb.jpg"
+  }
+]
