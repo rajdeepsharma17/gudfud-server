@@ -4,7 +4,7 @@
   "description": "server for gudfud pre-ordering platform",
   "main": "index.js",
   "scripts": {
-    "server": "node ./src/bin/server.js",
+    "start": "node ./src/bin/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
